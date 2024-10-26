@@ -5,6 +5,7 @@
 - 📫 How to reach me ashishwlearn@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: smile when angry
+new profile to track my learning
 
 <!---
 ashishwl/ashishwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
