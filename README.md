@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashish Wilson
+- 👋 Hi, I’m Ashish Wilson @ashishwl
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on opensource
