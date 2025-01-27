@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on opensource
 - 📫 How to reach me ashishwlearn@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: smile when angry
 new profile to track my learning
 
 <!---
